@@ -8,7 +8,8 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Gabriel4420/searchgoogle?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/Gabriel4420/searchgoogle?color=56BEB8">
+  
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/Gabriel4420/searchgoogle?color=green">
   
   <br>
   
