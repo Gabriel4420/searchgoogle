@@ -17,7 +17,7 @@
     <img src="https://app.codacy.com/project/badge/Grade/6dd6b46abeb14e99935a2b9ac5c6ede2"/>
   </a>
   
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/Gabriel4420/CalculadoraIMC">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/Gabriel4420/searchgoogle">
 
 </p>
 
