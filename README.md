@@ -2,13 +2,10 @@
 <h1 align="center">SearchGoogle</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Gabriel4420/searchgoogle?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Gabriel4420/searchgoogle?color=green">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Gabriel4420/searchgoogle?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Gabriel4420/searchgoogle?color=green">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Gabriel4420/searchgoogle?color=56BEB8">
-
-  
   <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/Gabriel4420/searchgoogle?color=green">
   
   <br>
@@ -17,7 +14,7 @@
     <img src="https://app.codacy.com/project/badge/Grade/6dd6b46abeb14e99935a2b9ac5c6ede2"/>
   </a>
   
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/Gabriel4420/searchgoogle">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/Gabriel4420/searchgoogle?color=green">
 
 </p>
 
